@@ -1,7 +1,7 @@
 from tkinter import *
 import random
 
-
+#2
 class SnakeGame:
 
     def __init__(self):
